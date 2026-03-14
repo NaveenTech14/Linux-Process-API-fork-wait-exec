@@ -50,7 +50,7 @@ int main() {
 
 ##OUTPUT
 ![Alt text](../image/exp02-1.png)
-
+![Alt text](image/exp02-1.png)
 ![Alt text](../image/exp02-2.png)
 
 
