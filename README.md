@@ -49,9 +49,9 @@ int main() {
 '''
 
 ##OUTPUT
-![Alt text](../image/exp02-1.png)
-![Alt text](image/exp02-1.png)
-![Alt text](../image/exp02-2.png)
+![1](image/exp02-1.png)
+
+![2](image/exp02-2.png)
 
 
 
@@ -103,7 +103,7 @@ int main() {
 
 ##OUTPUT
 
-![Alt text](../image/exp02-3.png)
+![3](image/exp02-3.png)
 
 
 # RESULT:
